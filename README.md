@@ -1,8 +1,2 @@
-# LabExer2-Johari
-asopjdp[sad
-as
-sa
-das
-d
-asd
-asd
+# Activity 1 02_Laboratory_Exercise
+
