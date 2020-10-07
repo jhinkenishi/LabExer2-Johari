@@ -1,2 +1,2 @@
-# Activity 1 02_Laboratory_Exercise
+# Activity 1 02_Laboratory_Exercise Johari Macapundag
 
